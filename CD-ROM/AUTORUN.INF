@@ -1,10 +1,12 @@
 [AutoRun]
 label=SYSTEMROOT
 UseAutoPlay=1
+Icon=\system32\res\32.ico
 
 [AutoRun.AMD64]
 label=SYSTEMROOT
 UseAutoPlay=1
+Icon=\system32\res\64.ico
 
 [Content]
 MusicFiles=0
