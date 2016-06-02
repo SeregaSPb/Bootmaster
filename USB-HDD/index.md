@@ -1,3 +1,4 @@
 ---
-partition 1: format NTFS(?) hidden sequre
-partition 2: format NTFS primary (will be used as bait for different Badwares)
+partition 1: format - NTFS (or not..) hidden sequre
+partition 2: format - NTFS primary <br> will be used as bait for different Badwares
+---
